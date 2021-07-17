@@ -1,4 +1,4 @@
-# Simple-Chatty-bot-2021
+# Simple-Chatty-Bot-2021
 ## Jetbrains Academy Project | Level :  Easy
 
 ### About
