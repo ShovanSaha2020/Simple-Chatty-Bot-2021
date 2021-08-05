@@ -1,11 +1,11 @@
 # Simple-Chatty-Bot-2021
-## Jetbrains Academy Project | Level :  Easy
+## JetBrains Academy Project | Level :  Easy
 
 ### About
 It's a simple program that can guess your age, and count to any number that you want. It can ask you a simple programming question too. 
 
 ### Example Outputs:
-
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 ##### Example : 
 ```
 Hello! My name is Aid.
